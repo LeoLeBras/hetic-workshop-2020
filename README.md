@@ -38,7 +38,9 @@ It is recommended to run `react-native start` command from root project director
 
 (Otherwise, run your project from Xcode (`Cmd+R`) for iOS, or use `react-native run-android` to run your project on Android.)
 
-🥳 Tada, the project is running.
+🥳 Tada, the project is running:
+
+<img src="https://raw.githubusercontent.com/LeoLeBras/workshop-hetic-react-native/master/demo/demo.png" width="500">
 
 ## 🕺 Contribute
 
