@@ -6,9 +6,22 @@
 import React from 'react'
 import { SafeAreaView, StyleSheet, View, Text, StatusBar } from 'react-native'
 
+import * as theme from './theme'
+
 const styles = StyleSheet.create({
+  root: {
+    flex: 1,
+    backgroundColor: theme.neutralColor100,
+  },
   container: {
-    backgroundColor: '#0a0206',
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: theme.neutralColor100,
+  },
+  text: {
+    color: theme.neutralColor00,
+    fontSize: 64,
   },
 })
 
@@ -16,9 +29,9 @@ export default function App() {
   return (
     <>
       <StatusBar barStyle="dark-content" />
-      <SafeAreaView>
+      <SafeAreaView style={styles.root}>
         <View style={styles.container}>
-          <Text>Menu</Text>
+          <Text style={styles.text}>🏎</Text>
         </View>
       </SafeAreaView>
     </>
