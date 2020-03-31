@@ -20,7 +20,7 @@
 1. Install React Native as described at [https://reactnative.dev/docs/environment-setup](https://reactnative.dev/docs/environment-setup)
 2. Clone this repository
 3. Run `yarn` or `npm install` , all required components will be installed automatically
-4. Copy and paste your font files into an `assets' folder. (the font`Proxima Nova` is required)
+4. Copy and paste your font files into an `assets` folder. (the font`Proxima Nova` is required)
 5. Run `react-native link`
 
 ### iOS
