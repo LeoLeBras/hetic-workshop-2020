@@ -17,7 +17,7 @@
 
 ## 💻 How to use
 
-1. Install React Native as described at [https://facebook.github.io/react-native/docs/getting-started.html#content](https://facebook.github.io/react-native/docs/getting-started.html#content)
+1. Install React Native as described at [https://reactnative.dev/docs/environment-setup](https://reactnative.dev/docs/environment-setup)
 2. Clone this repository
 3. Run `yarn` or `npm install` , all required components will be installed automatically
 4. Copy and paste your font files into an `assets' folder. (the font`Proxima Nova` is required)
@@ -26,7 +26,7 @@
 ### iOS
 
 1. Run `pod install` from `./ios` folder
-2. Start XCode and open generated `AppH4.xcworkspace`
+2. Start Xcode and open generated `AppH4.xcworkspace`
 
 ### Android
 
@@ -35,7 +35,8 @@ No steps required.
 ## 🌏 Run the project
 
 It is recommended to run `react-native start` command from root project directory.
-(Run your project from Xcode (`Cmd+R`) for iOS, or use `react-native run-android` to run your project on Android.)
+
+(Otherwise, run your project from Xcode (`Cmd+R`) for iOS, or use `react-native run-android` to run your project on Android.)
 
 🥳 Tada, the project is running.
 
