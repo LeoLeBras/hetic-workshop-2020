@@ -40,7 +40,7 @@ It is recommended to run `react-native start` command from root project director
 
 🥳 Tada, the project is running:
 
-<img src="https://raw.githubusercontent.com/LeoLeBras/workshop-hetic-react-native/master/demo/demo.png" width="500">
+<img src="https://raw.githubusercontent.com/LeoLeBras/workshop-hetic-react-native/master/demo/demo.png" width="360">
 
 ## 🕺 Contribute
 
